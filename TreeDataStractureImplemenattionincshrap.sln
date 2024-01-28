@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeDataStractureImplemenattionincshrap", "TreeDataStractureImplemenattionincshrap.csproj", "{22F44F2E-D26E-4A12-9A70-4891D5EE4251}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22F44F2E-D26E-4A12-9A70-4891D5EE4251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22F44F2E-D26E-4A12-9A70-4891D5EE4251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22F44F2E-D26E-4A12-9A70-4891D5EE4251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22F44F2E-D26E-4A12-9A70-4891D5EE4251}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A88792D8-D0D5-495E-831D-931B0F971E3C}
+	EndGlobalSection
+EndGlobal
